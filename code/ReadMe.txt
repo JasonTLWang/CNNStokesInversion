@@ -1,7 +1,7 @@
-This zip/folder contains the source code of our program, called CNNStokesInversion.py, which is used to infer vector magnetic fields from the Stokes profiles of GST/NIRIS. In order to execute this program, visit
+This folder contains information of the source code of our program, called CNNStokesInversion.py, which is used to infer vector magnetic fields from the Stokes profiles of GST/NIRIS. In order to execute this program, visit
 https://web.njit.edu/~wangj/CNNStokesInversion/
-to download all zip files in the Datasets section and
-extract all the downloaded zip files into the same large folder, in which you see (after uncompressing the zip files) the following 9 folders: "code" (this zip), "trainset", "traincsv", "testset1", "testset2", "testset3", "results1", "results2", "results3".
+to download all zip files in the Source Code and Datasets sections and
+extract all the downloaded zip files into the same large folder, in which you see (after uncompressing the zip files) the following 9 folders: "code", "trainset", "traincsv", "testset1", "testset2", "testset3", "results1", "results2", "results3".
 
 To run this CNN tool, enter the "code" folder.
 The usage is given as follows:
