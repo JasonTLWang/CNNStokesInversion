@@ -1,5 +1,3 @@
-# CNNStokesInversion
-
 Inferring Vector Magnetic Fields from Stokes Profiles of GST/NIRIS Using a Convolutional Neural Network
 
 Hao Liu, Yan Xu, Jiasheng Wang, Ju Jing, Chang Liu, Jason T. L. Wang and Haimin Wang
